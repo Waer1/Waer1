@@ -73,3 +73,5 @@
 </p>
 
 
+<h2 align="center">You Can have a Look to my Cv from Here : <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"/ height="40" width="40" href="https://drive.google.com/file/d/1GZJ0BeZHWkNpmc6jzufDqQaCvBLj64ND/view?usp=sharing"  > </h2>
+
