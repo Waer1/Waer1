@@ -16,15 +16,11 @@
 
   
 
-<div>
-<span> 
+
  ![Waer's GitHub stats](https://github-readme-stats.vercel.app/api?username=waer1&count_private=true)
-</span>
-<span> 
-  
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Waer1&count_private=true&theme=novatorem)
-</span>
-</div>
+
   ![Profile View Counter](https://komarev.com/ghpvc/?username=Waer1)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWaer1%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
