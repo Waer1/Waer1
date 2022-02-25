@@ -14,7 +14,7 @@
  <li><strong><em>I am first responder, I received certification through a training course for the Egyptian Red Crescent at the secondary level. </em></strong></li>
  <li><strong><em>Volunteer in awareness campaigns against the dangers of mishandling dangerous cases. </em></strong></li>
 
-  
+  <br>
 
 
  ![Waer's GitHub stats](https://github-readme-stats.vercel.app/api?username=waer1&count_private=true)
