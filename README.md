@@ -39,7 +39,7 @@
 
 <p align="center">
 
-  <img height="64px" src="https://camo.githubusercontent.com/0a6ef04b1c423027658e0a15df6296f8b93a76459be3adc5ce69df27eaed7575/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667" data-canonical-src="https://cdn.svgporn.com/logos/html-5.svg" style="max-width: 24px;">
+  <img height="64px" src="https://camo.githubusercontent.com/0a6ef04b1c423027658e0a15df6296f8b93a76459be3adc5ce69df27eaed7575/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667" data-canonical-src="https://cdn.svgporn.com/logos/html-5.svg" style="max-width: 20px;">
 
   <a href="#">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
