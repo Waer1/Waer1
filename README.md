@@ -8,8 +8,11 @@
 
 <h2>About Waer</h2>
 <ul>
- <li><strong><em>I'm student at faculty of engineering cairo university computer department</em></strong></li>
- <li><strong><em>Courses I studied in university: </em></strong></li>
+ <li><strong><em>I am Yousef Alwaer, a junior Computer Engineering student at the Faculty of Engineering, Cairo University.</em><strong></li>
+ <li><strong><em>I am a Front end web developer. </em></strong></li>
+ <li><strong><em>Passionate about learning how things work, and always looking for opportunities to learn something new. </em></strong></li>
+ <li><strong><em>I am first responder, I received certification through a training course for the Egyptian Red Crescent at the secondary level. </em></strong></li>
+ <li><strong><em>Volunteer in awareness campaigns against the dangers of mishandling dangerous cases. </em></strong></li>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </ul>
@@ -36,9 +39,7 @@
 
 <p align="center">
 
-  <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  </a>
+  <img height="64px" src="https://camo.githubusercontent.com/0a6ef04b1c423027658e0a15df6296f8b93a76459be3adc5ce69df27eaed7575/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667" data-canonical-src="https://cdn.svgporn.com/logos/html-5.svg" style="max-width: 24px;">
 
   <a href="#">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
