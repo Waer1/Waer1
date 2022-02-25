@@ -39,7 +39,7 @@
 
 <p align="center">
 
-  <img src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" height="40" width="40">
+  <img src="https://cdn.cdnlogo.com/logos/c/76/c.svg" height="40" width="40">
 
   <img src="https://cdn.svgporn.com/logos/javascript.svg" height="40" width="40">
 
