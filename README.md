@@ -14,6 +14,18 @@
  <li><strong><em>I am first responder, I received certification through a training course for the Egyptian Red Crescent at the secondary level. </em></strong></li>
  <li><strong><em>Volunteer in awareness campaigns against the dangers of mishandling dangerous cases. </em></strong></li>
 
+  
+
+
+ ![Waer's GitHub stats](https://github-readme-stats.vercel.app/api?username=waer1&count_private=true)
+
+  
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Waer1&count_private=true&theme=novatorem)
+
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=Waer1)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWaer1%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </ul>
 
@@ -51,10 +63,14 @@
 
   <img src="https://cdn.svgporn.com/logos/css-3.svg" height="40" width="40">
 
+  <img src="https://cdn.cdnlogo.com/logos/r/63/react.svg" height="40" width="40">
+
   <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="40" width="40">
 
   <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="40" width="40">
 
+  <img src="https://cdn.cdnlogo.com/logos/r/65/red-hat.svg" height="40" width="40">
 
 </p>
+
 
