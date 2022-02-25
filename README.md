@@ -45,7 +45,7 @@
 
   <img src="https://cdn.svgporn.com/logos/python.svg" height="40" width="40">
 
-  <img src="https://cdn.svgporn.com/logos/Dart.svg" height="40" width="40">
+  <img src="https://cdn.cdnlogo.com/logos/d/66/dart.svg" height="40" width="40">
 
   <img src="https://cdn.svgporn.com/logos/html-5.svg"  height="40" width="40">
 
