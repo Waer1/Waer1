@@ -39,15 +39,22 @@
 
 <p align="center">
 
-  <img src="https://camo.githubusercontent.com/0a6ef04b1c423027658e0a15df6296f8b93a76459be3adc5ce69df27eaed7575/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667" data-canonical-src="https://cdn.svgporn.com/logos/html-5.svg" height="40" width="40">
+  <img src="https://cdn.svgporn.com/logos/c++.svg" height="40" width="40">
 
-  <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  </a>
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" height="40" width="40">
 
-  <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  </a>
+  <img src="https://cdn.svgporn.com/logos/python.svg" height="40" width="40">
+
+  <img src="https://cdn.svgporn.com/logos/Dart.svg" height="40" width="40">
+
+  <img src="https://cdn.svgporn.com/logos/html-5.svg"  height="40" width="40">
+
+  <img src="https://cdn.svgporn.com/logos/css-3.svg" height="40" width="40">
+
+  <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="40" width="40">
+
+  <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="40" width="40">
+
 
 </p>
 
