@@ -1,4 +1,5 @@
 # al salam alaikum | السلام عليكم  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+#### I am Software Engineering Student at Cairo University, my name is Yousef Alwaer
 
 <br>
 
@@ -6,72 +7,69 @@
 
 <br>
 
-<h2>About Waer</h2>
-<ul>
- <li><strong><em>I am Yousef Alwaer, a junior Computer Engineering student at the Faculty of Engineering, Cairo University.</em><strong></li>
- <li><strong><em>I am a Front end web developer. </em></strong></li>
- <li><strong><em>Passionate about learning how things work, and always looking for opportunities to learn something new. </em></strong></li>
- <li><strong><em>I am first responder, I received certification through a training course for the Egyptian Red Crescent at the secondary level. </em></strong></li>
- <li><strong><em>Volunteer in awareness campaigns against the dangers of mishandling dangerous cases. </em></strong></li>
+# About me
 
-  <br>
-
-
- ![Waer's GitHub stats](https://github-readme-stats.vercel.app/api?username=waer1&count_private=true)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Waer1&count_private=true&theme=novatorem)
-
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=Waer1)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWaer1%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+- <img src="./img/CUFE.png" width="25" draggable="false"> Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+- <img src="./img/Logo-ITI-TECH-LEAPS.png" width="25" draggable="false">Devops Trainee <a href="https://mcit.gov.eg/en/Human_Capacity/ITI/ITI_Tech_Leaps">@iti</a>
+- <img src="./img/safcotech.png" width="25" draggable="false">Former Software Engineering Intern <a href="https://safecotech.com/">@Safcotech</a>
+- <img src="./img/AIC.png" width="25" draggable="false">Former HPC Adminstration Intern <a href="https://mcit.gov.eg/en/Applied_innovation_Center">@AIC</a>
+- <img src="./img/gssoc.jpg" width="25" draggable="false">Former Open Source contributor with<a href="https://gssoc.girlscript.tech/">@Gssoc</a>
+- <img src="./img/Huawei.png" width="25" draggable="false">Huawei Cloud Computing Association<a href="https://e.huawei.com/en/talent/#/personal/myinfo">@Huawei</a>
+- 🔭 I’m learning about Devops, Cloud, Virtualization, software Engineering, Problem Solving
+- 🌱 DevOps enthusiast
+- 💬 Ask me about anything and I will be happy to help 
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</ul>
 
-<h2 align="center">You can reach me at :alien:</h2>
+<br/><br/>
+# You Can Contact me at
+  [<img src='./img/Github.png' alt='github' height='40'>](https://github.com/waer1)  [<img src='./img/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/yousef-elwaer)  [<img src='./img/gmail.png' alt='codeforces' height='40'>](mailto:elwaeryousef@gmail.com)  
 
-<p align="center">
 
-  <a href="https://www.linkedin.com/in/yousef-elwaer-13304220a/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  </a>
 
-  <a href="https://www.facebook.com/JOOYOUSEF456">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  </a>
-
-  <a href="mailto:elwaeryousef@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  </a>
-
-</p>
-
-<h2 align="center">My stack :man_technologist:</h2>
+<br/><br/>
+# my Skills
 
 <p align="center">
 
-  <img src="https://cdn.cdnlogo.com/logos/c/76/c.svg" height="40" width="40">
+[<img src="https://cdn.cdnlogo.com/logos/c/76/c.svg" height="40" width="40">]
+[<img src="https://cdn.svgporn.com/logos/python.svg" height="40" width="40">]
+[<img src="https://cdn.cdnlogo.com/logos/d/66/dart.svg" height="40" width="40">]
+[<img src="https://cdn.svgporn.com/logos/html-5.svg"  height="40" width="40">]
+[<img src="https://cdn.svgporn.com/logos/css-3.svg" height="40" width="40">]
+[<img src="https://cdn.cdnlogo.com/logos/r/63/react.svg" height="40" width="40">]
+[<img src="https://cdn.svgporn.com/logos/git-icon.svg" height="40" width="40">]
+[<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="40" width="40">]
+[<img src="https://cdn.cdnlogo.com/logos/r/65/red-hat.svg" height="40" width="40">]
+[<img src='./img/javascript.png' height='40'>] 
+[<img src='./img/docker.png' height='40'>]
+[<img src='./img/k8s.png' height='40'>]
+[<img src='./img/jenkins.png' height='40'>]
 
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" height="40" width="40">
-
-  <img src="https://cdn.svgporn.com/logos/python.svg" height="40" width="40">
-
-  <img src="https://cdn.cdnlogo.com/logos/d/66/dart.svg" height="40" width="40">
-
-  <img src="https://cdn.svgporn.com/logos/html-5.svg"  height="40" width="40">
-
-  <img src="https://cdn.svgporn.com/logos/css-3.svg" height="40" width="40">
-
-  <img src="https://cdn.cdnlogo.com/logos/r/63/react.svg" height="40" width="40">
-
-  <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="40" width="40">
-
-  <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="40" width="40">
-
-  <img src="https://cdn.cdnlogo.com/logos/r/65/red-hat.svg" height="40" width="40">
+[<img src='./img/aws.png' height='40'>]
+[<img src='./img/Microsoft_Azure.svg.png' height='40'>]
+[<img src='./img/DO.png' height='40'>]
+[<img src='./img/bash.png' height='40'>]
+[<img src='./img/nodejs.png' height='40'>] 
+[<img src='./img/python.png' height='40'>] 
+[<img src='./img/SQL .png' height='40'>]
+[<img src='./img/csharp.png' height='40'>]
+[<img src='./img/Net.png' height='40'>]
+[<img src='./img/c.png' height='40'>]
+[<img src='./img/Assembly x86.png' height='40'>]
+[<img src='./img/git.png' height='40'>] 
 
 </p>
 
+<br/><br/>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=waer1&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waer1&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="center">You Can have a Look to my Cv from Here : <a href="https://drive.google.com/drive/folders/1BXxXyCtaTBhqnL4XfDCSp-H_mywUegFF?usp=sharing" target="_blank"> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"  height="30" width="30" > </a>  </h2>
 
+<h2 align="center">You Can have a Look to my Cv from Here : <a href="https://drive.google.com/drive/folders/1BXxXyCtaTBhqnL4XfDCSp-H_mywUegFF?usp=sharing" target="_blank"> <img src="https://img.icons8.com/metro/52/null/internet-folder.png"  height="30" width="30" > </a>  </h2>
+<h2 align="center">You Can have a Look to my Certifications from Here : <a href="https://drive.google.com/drive/folders/1v2hfUSrTXkK3vgiDDSeOpUR6xJhGxqEJ?usp=sharing" target="_blank"> <img src="https://img.icons8.com/ultraviolet/40/null/diploma.png"  height="30" width="30" > </a>  </h2>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/waer1/count.svg" />
+</p>
