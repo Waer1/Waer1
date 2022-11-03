@@ -14,6 +14,7 @@
 - <img src="./img/safcotech.png" width="25" draggable="false">Former Software Engineering Intern <a href="https://safecotech.com/">@Safcotech</a>
 - <img src="./img/AIC.png" width="25" draggable="false">Former HPC Adminstration Intern <a href="https://mcit.gov.eg/en/Applied_innovation_Center">@AIC</a>
 - <img src="./img/gssoc.jpg" width="25" draggable="false">Former Open Source contributor with<a href="https://gssoc.girlscript.tech/">@Gssoc</a>
+- <img src="./img/Udacity.png" width="25" draggable="false">Graduated From Udacity Cloud Developer<a href="http://udacity.com/">@Udacity</a>
 - <img src="./img/Huawei.png" width="25" draggable="false">Huawei Cloud Computing Association<a href="https://e.huawei.com/en/talent/#/personal/myinfo">@Huawei</a>
 - 🔭 I’m learning about Devops, Cloud, Virtualization, software Engineering, Problem Solving
 - 🌱 DevOps enthusiast
