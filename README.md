@@ -67,7 +67,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waer1&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h2 align="center">You Can have a Look to my Cv from Here : <a href="https://drive.google.com/drive/folders/1BXxXyCtaTBhqnL4XfDCSp-H_mywUegFF?usp=sharing" target="_blank"> <img src="https://img.icons8.com/metro/52/null/internet-folder.png"  height="30" width="30" > </a>  </h2>
+<h2 align="center">You Can have a Look to my Cv from Here : <a href="https://drive.google.com/drive/folders/1BXxXyCtaTBhqnL4XfDCSp-H_mywUegFF?usp=sharing" target="_blank"> <img src="https://img.icons8.com/color/48/null/folder-invoices--v1.png"  height="30" width="30" > </a>  </h2>
 <h2 align="center">You Can have a Look to my Certifications from Here : <a href="https://drive.google.com/drive/folders/1v2hfUSrTXkK3vgiDDSeOpUR6xJhGxqEJ?usp=sharing" target="_blank"> <img src="https://img.icons8.com/ultraviolet/40/null/diploma.png"  height="30" width="30" > </a>  </h2>
 
 <p align="center"> 
