@@ -7,8 +7,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Waer!&fontAlign=40&fontAlignY=40&color=timeGradient)
 
 
-### I am Software Engineering Student at Cairo University, my name is Yousef Alwaer
-
+### Hi, my name is Yousef Alwaer, I am Software Engineering Student at Cairo University
 <br>
 
 # About me
@@ -28,7 +27,7 @@
 
 <br/><br/>
 # You Can Contact me at
-  [<img src='./img/Github.png' alt='github' height='40'>](https://github.com/waer1)  [<img src='./img/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/yousef-elwaer)  [<img src='./img/gmail.png' alt='codeforces' height='40'>](mailto:elwaeryousef@gmail.com)  
+   [<img src='./img/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/yousef-elwaer)  [<img src='./img/gmail.png' alt='codeforces' height='40'>](mailto:elwaeryousef@gmail.com)  
 
 
 
