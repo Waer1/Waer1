@@ -6,9 +6,8 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Waer!&fontAlign=40&fontAlignY=40&color=timeGradient)
 
-<br>
 
-#### I am Software Engineering Student at Cairo University, my name is Yousef Alwaer
+### I am Software Engineering Student at Cairo University, my name is Yousef Alwaer
 
 <br>
 
