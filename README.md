@@ -1,10 +1,13 @@
 # al salam alaikum | السلام عليكم  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-#### I am Software Engineering Student at Cairo University, my name is Yousef Alwaer
 
 <br>
 
-<img src="./img/hey iam waer.svg"/>
+<!-- <img src="./img/hey iam waer.svg"/> -->
 
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Waer!&fontAlign=40&fontAlignY=40&color=timeGradient)
+
+<br>
+##### I am Software Engineering Student at Cairo University, my name is Yousef Alwaer
 <br>
 
 # About me
